@@ -1,7 +1,7 @@
 # Description :
 
--> This project aims to predict the productivity of garment workers using machine learning algorithms and explainable AI techniques. 
--> It focuses on addressing the challenges of low productivity in the garment industry, which can significantly impact efficiency and profitability.
+This project aims to predict the productivity of garment workers using machine learning algorithms and explainable AI techniques. 
+It focuses on addressing the challenges of low productivity in the garment industry, which can significantly impact efficiency and profitability.
     
 The objective is all about measuring why customers are leaving the company or stating whether customers will change telecommunication providers or not and to check which variables are effecting.
 
