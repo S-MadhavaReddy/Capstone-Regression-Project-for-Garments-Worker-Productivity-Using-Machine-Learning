@@ -1,4 +1,4 @@
-Description :
+# Description :
 
 -> This project aims to predict the productivity of garment workers using machine learning algorithms and explainable AI techniques. 
 -> It focuses on addressing the challenges of low productivity in the garment industry, which can significantly impact efficiency and profitability.
@@ -10,7 +10,12 @@ Implementing multiple machine learning models to fit the best model for the data
 
 
 
-Information about dataset attributes :
+
+
+
+
+
+# Information about dataset attributes :
 
 
 
